@@ -1,4 +1,4 @@
-// (c) 2014-2016, git.io/minxomat
+// (c) 2014-2017, github.com/turbo
 // MIT licensed
 
 #include <windows.h>
